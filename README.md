@@ -65,4 +65,4 @@
 <br>
 
 ## 팀 깃허브
-- 팀 프로젝트 깃허브 주소(팀 전체 공유) https://www.todomate.net/
+- 팀 프로젝트 깃허브 주소(팀 전체 공유) https://github.com/yimenbin0126/zeloKalory-final
