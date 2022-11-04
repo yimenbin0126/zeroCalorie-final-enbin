@@ -132,7 +132,7 @@
   
   - <b>첨부파일</b> : 파일의 정보. 게시물 번호로 구분. 총 5개의 파일 첨부 가능(첨부 수 제한)
 <br>
-<img width="700" alt="고객센터 - 상세보기 댓글" src="https://user-images.githubusercontent.com/93369732/199427855-b7cbf0b8-9042-439a-addb-587c178a6c09.png">
+<img alt="고객센터 - 상세보기 댓글" src="https://user-images.githubusercontent.com/93369732/199427855-b7cbf0b8-9042-439a-addb-587c178a6c09.png">
 
 <br>
 <br>
