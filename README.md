@@ -137,7 +137,6 @@
 <br>
 <br>
 
-## 팀 깃허브 
+## 팀 깃허브  주소
 - https://github.com/yimenbin0126/zeloKalory-final
 - 커밋 기록 확인용 (기록 아이디 : yimenbin, yimenbin0126)
-- 팀 프로젝트 깃허브 주소(팀 전체 공유)
