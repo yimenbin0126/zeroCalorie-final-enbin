@@ -27,52 +27,25 @@
 
 ### 고객센터 - 공개 건의함
 - 관리자&회원 게시판
-- 게시판 CRUD / 답글, 댓글/대댓글, 페이징, 검색
+- 게시판, 댓글, 페이징, 검색
 - 그 외 (좋아요/싫어요, 조회수, 파일 첨부 및 다운로드, 최신/조회수/좋아요순 나열)
 
 ##### 페이징, 검색
 
-<img width="700" src="https://user-images.githubusercontent.com/93369732/199644221-63d2c597-363f-49d5-b2d0-47d7b6686185.gif">
+<img width="700" alt="고객센터 - 공개 건의함 - 내가 작성한 글" src="https://user-images.githubusercontent.com/93369732/199644245-ad1408bd-070a-48be-b26e-4473132e63a7.gif">
 
 ##### 좋아요, 파일 다운로드
 
 <img width="700" src="https://user-images.githubusercontent.com/93369732/199644229-11d957e7-c277-4b55-a953-6b3d62762b46.gif">
 
-##### 댓글, 대댓글
+##### 댓글
 
 <img width="700" src="https://user-images.githubusercontent.com/93369732/199644230-a1adc88c-a069-471e-97b2-20c062f9a343.gif">
 
-##### 게시물 CRUD, 답글
+##### 게시물 답글
 
 <img width="700" src="https://user-images.githubusercontent.com/93369732/199644238-d5e5ed0f-db34-4dff-8b6b-8676125aa391.gif">
 
-<br>
-<br>
-
-### 고객센터 - 공개 건의함 [내가 작성한 글]
-- 내가 작성한 글 관리/삭제
-- 그 외 (검색, 페이징, 최신/조회수/좋아요순 나열)
-<br>
-
-<img width="700" alt="고객센터 - 공개 건의함 - 내가 작성한 글" src="https://user-images.githubusercontent.com/93369732/199644245-ad1408bd-070a-48be-b26e-4473132e63a7.gif">
-<br>
-<br>
-
-### 고객센터 - 자주하는 질문
-- 관리자 게시판
-- 게시판 CRUD, 페이징, 검색
-
-##### 페이징, 검색
-
-<img width="700" src="https://user-images.githubusercontent.com/93369732/199643381-3d705be7-1154-43a1-895e-c4c3995fb7f5.gif">
-
-##### 게시판 CRUD
-
-<img width="700" src="https://user-images.githubusercontent.com/93369732/199643385-45916fed-2458-40e9-9a92-92aba66089d5.gif">
-
-##### 좋아요, 파일 다운로드
-
-<img width="700" src="https://user-images.githubusercontent.com/93369732/199643541-5b276fa3-c039-4316-9e36-7e486d18e559.gif">
 <br>
 <br>
 
@@ -86,7 +59,7 @@
 <br>
 
 ### 회원가입
-- 회원 가입 할 수 있는 페이지 - 필수 값, 필수가 아닌 값
+- 회원 가입 할 수 있는 페이지 - 필수 값만으로 가입 가능
 
   - 필수 값 : 아이디, 비밀번호, 닉네임, 이메일, 전화번호, 본인의 키
   - 필수가 아닌 값 : 이름, 생년월일, 성별, 프로필사진(기본 프로필)
@@ -99,18 +72,11 @@
 
 <img width="700" src="https://user-images.githubusercontent.com/93369732/199642238-25ce0a7e-b599-4723-805e-60f9855b5230.gif">
 
-##### 필수 값 만으로 회원가입
-
-<img width="700" src="https://user-images.githubusercontent.com/93369732/199642245-1233a814-ef92-42a1-9f60-e0f8d4912ba5.gif">
 <br>
 <br>
 
 ### 아이디/비밀번호 찾기
-##### 아이디 찾기
-<img width="700" alt="아이디 찾기" src="https://user-images.githubusercontent.com/93369732/199641939-b2951956-3f31-4597-b63a-e5736a6d31f0.gif">
-
-
-##### 비밀번호 찾기
+- 메일의 인증코드 확인 후 비밀번호 변경
 
 <img width="700" src="https://user-images.githubusercontent.com/93369732/199642026-0a4862b5-2b0b-4e48-bf63-58e3588d6d05.gif">
 <br>
